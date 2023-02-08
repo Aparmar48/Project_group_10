@@ -1,0 +1,23 @@
+Project Proposal:
+1. Title - Immigration of canada 1980-2013
+
+2. Team members - Aditya P, Tejas S, Bowen P, Tom B
+
+3. Project description - Immigration Patterns in Canada
+
+4. Research Q & A 1. What is the most popular province for immigration?
+                  2. What would be the outcomes looks like by Age group, status
+                    and ethnicity etc.?
+                  3. The weather make any impacts on Immigration (correlation between
+                    weather data and the number of immigration)
+                  4. Which province has most and least household income compare to 
+                    other provinces? (By using houselhold income dataset)
+                  5. How is immigration affected by occupations? (By using employment and umemployment rate)
+
+5. Datasets to be used - 
+
+6. Rough Breakdown of Tasks - Aditya P: Make sure the accurate dataset we use, data clean and get ready to make work on it, 
+                                        managing github repo.
+                            - Tejas S : Research  on Q.1 and 2
+                            - Jasper  : Work on Q.4 and 5
+                            - Tom Bui : Work on Q.3
