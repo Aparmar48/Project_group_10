@@ -1,4 +1,4 @@
-# Project 10
+# Project 1
 
 ## Summary
 * University of Toronto's Data Analytics Bootcamp Project 1
