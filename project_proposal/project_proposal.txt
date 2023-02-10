@@ -21,3 +21,8 @@ Project Proposal:
                             - Tejas S : Research  on Q.1
                             - Jasper  : Work on Q.3
                             - Tom Bui : Work on Q.2
+                            
+7. We are going to cover almost all the topics we have covered in previous classes for Summary Statistics, Regression and Correlation, Pie chart, 
+   Bar chart, Scatter plot and many other charts. 
+8. We have framed outline to get done our analysis part (Jupyter Notebook) till 12th Feb (Sunday night) and looking to get done our presentation slides on 13th Feb
+   (Monday) during the class.
