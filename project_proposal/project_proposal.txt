@@ -25,4 +25,5 @@ Project Proposal:
 - We are going to cover almost all the topics we have covered in previous classes for Summary Statistics, Regression and Correlation, Pie chart, 
   Bar chart, Scatter plot and many other charts. 
 - We have framed outline to get done our analysis part (Jupyter Notebook) till 12th Feb (Sunday night) and looking to get done our presentation slides on 14th Feb (Monday)
-  during the class. 
+  during the class.
+
