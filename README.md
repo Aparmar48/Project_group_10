@@ -8,6 +8,10 @@
   * Tejas Sharma
   * Bowen Pang
   * Tuan Minh Bui
+  
+## Resouces
+* https://www.kaggle.com/datasets/nathanlauga/nba-games?select=games.csv
+* https://www.kaggle.com/code/garrethlee/nba-player-exploratory-data-analysis/data
 
 ## Requirements
 
